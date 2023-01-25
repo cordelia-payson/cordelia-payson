@@ -1,8 +1,4 @@
-### Hi there! I'm Cordelia 👋
-
-<!--
-**cordelia-payson/cordelia-payson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<h1>✨ Hey, I'm Cordelia ✨</h1>
+### ✨ Hey, I'm Cordelia ✨
 
 🔭 I’m currently working on [Visualizing History](https://github.com/cordelia-payson/visualizing-history)
 📫 Get in touch! cordelia.payson@gmail.com || [LinkedIn](https://www.linkedin.com/in/cordelia-payson/)
